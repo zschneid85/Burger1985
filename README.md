@@ -1,4 +1,3 @@
-# Burger1985
 # Delicios Burger!
 A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/
 
